@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sspillers-hbo
 - 👀 I’m working on the Experimentation Platform Team as an SDE I.
-- 📫 You can reach me @Sammy Spillers or in #experimentation-platform-team on Slack
+- 📫 You can reach me @Sammy Spillers or in #experimentation-help on Slack
 
 <!---
 sspillers-hbo/sspillers-hbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
